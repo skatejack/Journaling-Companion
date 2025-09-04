@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
+
+# Vite cache
+.vite/
+
+# MacOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Misc
+*.swp
