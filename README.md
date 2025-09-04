@@ -1,7 +1,7 @@
 
   # Empathetic Journaling Companion
 
-  This is a code bundle for Empathetic Journaling Companion. The original project is available at https://www.figma.com/design/ti9HvmAL8ypzg2ueex9HHX/Empathetic-Journaling-Companion.
+  Build of an "Empathetic" Journaling Companion. Built in a few hours with the help of Figma AI, Supabase, Cursor, and Open AI's models. 
 
   ## Running the code
 
