@@ -2,7 +2,7 @@
 
 ## Overview
 
-Empathetic Journaling Companion is a modern web application designed to foster daily self-reflection and emotional growth. The platform leverages advanced technologies to deliver a secure, private, and insightful journaling experience, with a particular emphasis on responsible AI integration and ethical user support.
+The Empathetic Journaling Companion is a modern web application designed to foster daily self-reflection and emotional growth. The platform leverages advanced technologies to deliver a secure, private, and insightful journaling experience, with a particular emphasis on responsible AI integration and ethical user support.
 
 ---
 
@@ -84,4 +84,4 @@ Empathetic Journaling Companion is a modern web application designed to foster d
 
 ## Conclusion
 
-Empathetic Journaling Companion exemplifies a thoughtful blend of modern web development, secure data practices, and responsible AI usage. Every design decision -- from the technical stack to the user interface -- reflects a commitment to privacy, ethical support, and meaningful engagement. The result is a platform that empowers users to reflect, grow, and discover themselves in a safe and supportive environment.
+This Journaling Companion exemplifies a thoughtful blend of modern web development, secure data practices, and responsible AI usage. Every design decision -- from the technical stack to the user interface -- reflects a commitment to privacy, ethical support, and meaningful engagement. The result is a platform that empowers users to reflect, grow, and discover themselves in a safe and supportive environment.
